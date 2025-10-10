@@ -1,6 +1,10 @@
 # Data Sharing Risk Framework 
 Home for materials and resources relating to the Data Sharing Risk Framework (DSRF) - a set of tools to assist organisations wanting to asses the risk of sharing data.
 
+## Overview
+
+[An introduction to the Data Sharing Risk Framework](data-sharing-risk-framework-intro.md).
+
 ## Licence
 
 All code in this repository is released under the [MIT licence](./LICENSE).
