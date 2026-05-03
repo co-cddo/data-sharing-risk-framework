@@ -2,7 +2,7 @@
 
 **Be part of developing a new toolkit for fast, confident data-sharing**
 
-National Security Digital Centre is working to support data interoperability across the UK NS community and beyond. We are inviting practitioners to use and further test the decision-making framework set out below, in order to determine Best Current Practice, and to shape forthcoming guidance. 
+National Security Digital Centre is working to support data interoperability across the UK NS community and beyond. We are inviting practitioners to use and further test the decision-making framework outlined below, in order to determine Best Current Practice, and to shape forthcoming guidance. 
 
 **Decision-making and interoperability**
 
