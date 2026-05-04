@@ -1,0 +1,31 @@
+**Glossary**
+
+**Data-sharing:** The exposure of data across any risk boundary, regardless of whether it has been moved or copied
+
+**Risk boundary:** A change of state in the ICE risks or in the RRCs of the Data, User, Environment or Purpose
+
+**ICE risks:** The general Impact, Compliance and Equity risks which may arise for any sharing decision
+
+**ICE risk factors:** The specific things that may present ICE risks in a given data-sharing Scenario
+
+**Risk-Relevant Characteristic (RRC):** The property of Data, a User, the Environment or the Purpose that is associated with one or more ICE risk factors
+
+**DUE-P factors:** Data, User, Environment and Purpose – the combination of parameters that affect data-sharing risk
+
+**Mitigation:** The type of alteration to DUE-P factors that will affect a given ICE risk factor to reduce risk
+
+**Control Objective:** What specific outcome or circumstance must be achieved to effect a given Mitigation (not specifying *how* it must be achieved)
+
+**Decision Pattern:** A logical entity comprising a data-sharing Scenario (defined by a combination of DUE-P RRCs), the associated ICE risk factors (whether tolerated or mitigated), the DUE-P Mitigations linked to each risk factor, and the associated Control Objectives that must be achieved to unlock the sharing outcome.
+
+**Definitive RRCs (D-RRCs):** RRCs that are used to define a Scenario in a Decision Pattern
+
+**Macro RRCs:** DUE-P properties that apply to multiple D-RRCs
+
+**Scenario:** A combination of DUE-P RRCs associated with a full ICE risk profile and a complete Decision Pattern
+
+**Archetype:** A combination of Macro RRCs associated with a partial ICE risk profile and incomplete Decision Pattern – used to set consistent business principles for Scenarios that fit the Archetype
+
+**Decision Record:** The document or record associated with a Decision Pattern, capturing business requirements or processes such as justifications and approvals
+
+**Use Case:** An example of a DUE-P combination which has been determined to match the risk profile of a Scenario, such that the associated Decision Pattern is applicable. 
