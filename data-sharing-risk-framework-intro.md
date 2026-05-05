@@ -1,4 +1,4 @@
-**A Data-Sharing Risk Framework: building best practice for National Security**
+# A Data-Sharing Risk Framework: building best practice for National Security
 
 **Be part of developing a new toolkit for fast, confident data-sharing**
 
@@ -18,19 +18,20 @@ The DSRF has certain core components, but can be applied in a range of ways. The
 Further resources are available from the DIG. Please contact NSDC@dsit.gov.uk
 
 © Crown Copyright (DSIT 2025\)  
-**Data-Sharing Risk Framework: Overview - May 2026**
 
-**What is a Data-Sharing Risk Framework (DSRF)?**  
+# Data-Sharing Risk Framework: Overview
+
+## What is a Data-Sharing Risk Framework (DSRF)?
 A DSRF is a method to make sure your data-sharing decisions are explicit, consistent and non-arbitrary, so that your data can be widely usable while remaining compliant and under control. Structured, logical decisions related to facts about a data-sharing situation are also essential to automating access controls, and sharing data in complex environments.
 
-**Who needs to use the Data-Sharing Risk Framework?**  
+## Who needs to use the Data-Sharing Risk Framework? 
 You should use the DSRF if you are:
 
 - A data-owner or custodian whose job includes making decisions about whether, and under what circumstances, your organisation will make its data available to others  
 - A data-sharing practitioner who develops and applies data-sharing processes and agreements in your organisation  
 - A data architect or technician who makes sure data controls and standards are available to implement and assure data-sharing decisions
 
-**What risks does the DSRF manage?**  
+## What risks does the DSRF manage?  
 There is usually an established process or dedicated job roles for managing the risks that data-sharing decisions and controls might fail. These risks *to* the shared data are sometimes called ‘CIA’ risks – they include Confidentiality (making sure no-one has unauthorised access), Integrity (making sure the data doesn’t get corrupted) and Availability (making sure the authorised users can actually get the data). The DSRF methods can be applied to these or any other risks, but the framework is designed primarily for the risks *of* data-sharing, i.e. the reasons why controls are there in the first place. These are Impact, Compliance and Equity (ICE) risks:
 
 - **Impact** risks cover the positive and negative consequences of sharing or not sharing, in terms of e.g. reputation, relationships and of course benefit – is this worth doing?
@@ -67,7 +68,7 @@ To make sure data is findable, accessible, interoperable and reusable, data-hand
 
 The DSRF approach is aligned with the Risk & Control Stack, which relates controls to risks via Control Objectives. Control Objectives set out what the risk-owner wants to achieve in a DUE-P situation, with regard to particular risks.
 
-**How to build a DSRF**
+## How to build a DSRF
 
 **1\. Specify your ICE risks**
 
@@ -128,7 +129,7 @@ As you consider more Scenarios, you will likely find that there are clusters of 
 
 Most organisations have a small number of common DUE-P Archetypes – usually fewer than 10. DUE-P Archetypes might correspond to different points in your data lifecycle, or different data products. This reduces the number of risk-management decisions you need to make, because Control Objectives can often apply at Archetype level, to any Scenario that fits the archetype. Over time, you can both aggregate Scenarios and group them into Archetypes, so that you end up with the minimum necessary number of explicit, consistent and non-arbitrary decisions across your whole organisation, and even across multiple organisations.
 
-**How will this benefit me?**  
+## How will this benefit me?  
 Using the framework, you set the conditions for data access in terms of things that need to be true of the world for you to have managed specific risks. This means:
 
 - Anyone can implement your decision accurately by making the same things true, even if they are using different mechanisms or controls  
@@ -139,7 +140,7 @@ A DSRF also helps organisations make decisions more quickly and confidently. Fir
 
 Secondly, in traditional data-sharing, by saying ‘yes’ the decision-maker is affirming that ICE and other risks have definitely been managed when this data is shared with this user for this purpose. That feels like a big responsibility, and the decision-maker needs proof that everything is in place before they can say yes to sharing. Using the DSRF, the decision-maker is agreeing to share IF certain specific conditions are true – the decision-maker does not also have to show or guarantee that they are currently true. That shares the burden of responsibility and means that decision-making itself is not delayed by security or accreditation processes that can be done separately, or by others.
 
-**How to put a DSRF into practice**
+## How to put a DSRF into practice
 
 **Data-sharing policies and processes**  
 The DSRF toolkit gives you a way to express your decisions about data-sharing clearly and explicitly, in a way which others can understand even if they don’t have the same data-management systems and labels as you do. Using a DSRF, you can systematically:
