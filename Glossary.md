@@ -1,4 +1,4 @@
-**Glossary**
+# Glossary
 
 **Data-sharing:** The exposure of data across any risk boundary, regardless of whether it has been moved or copied
 
