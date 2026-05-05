@@ -8,7 +8,7 @@
 
 **ICE risk factors:** The specific things that may present ICE risks in a given data-sharing Scenario
 
-**Risk-Relevant Characteristic (RRC):** The property of Data, a User, the Environment or the Purpose that is associated with one or more ICE risk factors
+**Risk-Relevant Characteristic (RRC):** The property of a set of Data, Users, Environments or Purposes that is associated with one or more ICE risk factors in a particular DUE-P context
 
 **DUE-P factors:** Data, User, Environment and Purpose – the combination of parameters that affect data-sharing risk
 
