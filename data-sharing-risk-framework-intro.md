@@ -1,4 +1,4 @@
-# A Data-Sharing Risk Framework: building best practice for National Security
+# A Data-Sharing Risk Framework: share and protect your data at scale
 
 **Be part of developing a new toolkit for fast, confident data-sharing**
 
@@ -91,7 +91,7 @@ Describe your DUE-P Scenario in the terms you think are likely to be 'risk-relev
 
 **3\. Assess your ICE Risk Factors for this Scenario**
 
-Consider the extent to which each of your specific ICE risks applies in this Scenario. As you do so, identify the particular factors that are present in this Scenario and that activate the risk - for example, if you have an Impact risk of 'reputational damage', what is it specifically in this Scenario that would be a potential problem? Could the Scenario diminish public trust in government? Or perhaps be misinterpreted by the media? A lot of common ICE risk factors have already been identifed in the development of the DSRF, so you won't have to start from scratch. Is the likelihood and impact of this risk low or high? There might be business principles or top-level policies that help you decide whether to tolerate or mitigate it. Think about what would have to be different in the Scenario to bring the risk down to an acceptable level.
+Consider the extent to which each of your specific ICE risks applies in this Scenario. As you do so, identify the particular factors that are present in this Scenario and that activate the risk - for example, if you have a Compliance risk of 'breach of contract', what is it specifically in this Scenario that would be a potential problem? Could the Scenario involve unapproved use of a commercial dataset? Or perhaps be contrary to terms & conditions? A lot of common ICE risk factors have already been identifed in the development of the DSRF, so you won't have to start from scratch. Is the likelihood and impact of this risk low or high? There might be business principles or top-level policies that help you decide whether to tolerate or mitigate it. Think about what would have to be different in the Scenario to bring the risk down to an acceptable level.
 
 Not all ICE risk factors are relevant to every decision you make, but you should build and maintain the set of factors that affect your decisions across all your DUE-P Scenarios.
 
