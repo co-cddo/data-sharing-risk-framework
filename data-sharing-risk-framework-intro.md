@@ -168,3 +168,4 @@ If you want to automate data-access, RRCs give you the kind of granular, objecti
 
 If you’re not ready or able to automate data-access, you can manually convert your RRC-based decisions into the controls you already use. You might not get the full benefits of automation, in terms of speed or efficiency – but you will have much better information about why you made the decision. This means you can be more rigorous and consistent in your data-sharing, improve your data-sharing processes, and have the information you need to automate the sharing when you are ready.
 
+© Crown Copyright (DCMS 2026) 
