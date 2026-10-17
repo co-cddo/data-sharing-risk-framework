@@ -1,3 +1,5 @@
+© Crown Copyright (DCMS 2026) 
+
 # The DSRF Data Model: Core Elements and Relationships # 
 The Data-Sharing Risk Framework (DSRF) is designed to ensure that data-sharing decisions are **explicit, consistent and non-arbitrary**. The data model provides a common structure that can be applied in different organisations and business contexts while preserving the same decision-making logic.
 
@@ -260,3 +262,5 @@ To ensure that the DSRF methodology is being applied correctly, the following ru
 12.	Taxonomic relationships do not imply Decision Pattern inheritance.
 
 In summary, the DSRF data model ensures that data-sharing decisions are based on the risks that arise in a complete DUE-P Scenario, expressed through reusable Decision Patterns, and governed through explicit relationships between Risk Profiles, Risk Factors, Mitigations and Control Objectives. This structure allows different organisations to implement the framework in their own way while preserving consistent decision-making logic. 
+
+© Crown Copyright (DCMS 2026) 
