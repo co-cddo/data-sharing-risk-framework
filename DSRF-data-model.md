@@ -1,3 +1,5 @@
+© Crown Copyright (DCMS 2026) 
+
 # Understanding the DSRF Data Model
 
 ## Data-sharing decisions for fast digital collaboration ##
@@ -95,3 +97,4 @@ DSRF Decision Patterns should be held away from the data, at the PDP. As Decisio
 ## Achieving data-sharing transformation ##
 The DSRF therefore provides more than a faster route to approving individual sharing agreements. By separating local assurance from reusable Decision Patterns, it creates a structured body of risk knowledge that can be applied consistently as data, users, purposes and environments change. Its risk-based categories support policy learning without reducing nuanced judgements to a fixed taxonomy, while its Control Objectives can inform dynamic, zero-trust access decisions without binding policy to the data itself. Together, these features provide a foundation for organisations to retain authority over their decisions while collaborating more confidently, learning from precedent and managing data responsibly across an evolving digital ecosystem.
 
+© Crown Copyright (DCMS 2026) 
