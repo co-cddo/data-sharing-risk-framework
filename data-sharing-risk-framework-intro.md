@@ -17,7 +17,7 @@ The DSRF has certain core components, but can be applied in a range of ways. The
 
 Further resources are available from the DIG. Please contact NSDC@dsit.gov.uk
 
-© Crown Copyright (DSIT 2025\)  
+© Crown Copyright (DCMS 2026)  
 
 # Data-Sharing Risk Framework: Overview
 
