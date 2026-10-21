@@ -190,7 +190,7 @@ Use Cases demonstrate how Decision Patterns are applied in practice.
 
 The elements of the DSRF conceptual model and the relationships between them can be presented as a simplified Entity Relationship diagram.
 
-<img width="978" height="547" alt="image" src="https://github.com/user-attachments/assets/a389234f-7dc7-4b81-8485-7beecfcf1b8e" />
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/7eda8da8-30b4-488a-9598-acd9c4689ba8" />
 
 ## Notes on interpretation
 
@@ -227,7 +227,7 @@ The DSRF should then differentiate that category into more specific D-RRCs, and 
 
 This principle underpins several aspects of the DSRF:
 
-- Risk Factors apply to Scenarios, not to individual RRCs.
+- ICE Risks apply to Scenarios, not to individual RRCs.
 - D-RRCs are refined when they cease to represent risk-alike sets.
 - Macro RRCs allow multiple D-RRCs with similar risk behaviour to be grouped together.
 - Archetypes describe common risk patterns across groups of Scenarios.
@@ -260,18 +260,18 @@ This ensures that organisations can understand not only what a decision is today
 
 To ensure that the DSRF methodology is being applied correctly, the following rules must always be maintained:
 1.	A Scenario is defined by a complete combination of D-RRCs across DUE-P.
-2.	Risk Factors apply to Scenarios, not to individual RRCs.
+2.	ICE Risks apply to Scenarios, not to individual RRCs.
 3.	Every active Decision Pattern must have exactly one complete Risk Profile.
 4.	Only one Decision Pattern may be active for a Scenario at any point in time.
 5.	Archetypes contain partial Risk Profiles and do not constitute Decision Patterns (if an Archetype’s Risk Profile is complete, it thereby becomes a Decision Pattern)
-6.	Mitigations target DUE-P dimensions and are linked to Risk Factors via the Risk Profile.
+6.	Mitigations target DUE-P dimensions and are linked to ICE Risks via the Risk Profile.
 7.	Control Objectives define outcomes, not implementation methods.
-8.	Decision Patterns, RRCs, Risk Factors and Control Objectives must be versioned and traceable over time.
+8.	Decision Patterns, RRCs, ICE Risks and Control Objectives must be versioned and traceable over time.
 9.	Scenarios may belong to multiple Archetypes only if the resulting risk profiles are compatible.
 10.	Decision Records are separate from Decision Patterns and may vary between organisations. 
 11.	D-RRCs represent risk-equivalent sets, not merely taxonomic sets.
 12.	Taxonomic relationships do not imply Decision Pattern inheritance.
 
-In summary, the DSRF data model ensures that data-sharing decisions are based on the risks that arise in a complete DUE-P Scenario, expressed through reusable Decision Patterns, and governed through explicit relationships between Risk Profiles, Risk Factors, Mitigations and Control Objectives. This structure allows different organisations to implement the framework in their own way while preserving consistent decision-making logic. 
+In summary, the DSRF data model ensures that data-sharing decisions are based on the risks that arise in a complete DUE-P Scenario, expressed through reusable Decision Patterns, and governed through explicit relationships between Risk Profiles, ICE Risks, Mitigations and Control Objectives. This structure allows different organisations to implement the framework in their own way while preserving consistent decision-making logic. 
 
 © Crown Copyright (DCMS 2026) 
