@@ -3,7 +3,7 @@
 # The DSRF Data Model: Core Elements and Relationships # 
 The Data-Sharing Risk Framework (DSRF) is designed to ensure that data-sharing decisions are **explicit, consistent and non-arbitrary**. The data model provides a common structure that can be applied in different organisations and business contexts while preserving the same decision-making logic.
 
-The key principle is that **risks are assessed in the context of a complete data-sharing Scenario**, not in relation to individual characteristics in isolation.
+*The key principle is that **risks are assessed in the context of a complete data-sharing Scenario**, not in relation to individual characteristics in isolation.*
 
 The DSRF data model has specific core components:
 - **Scenarios** describe combinations of Data, Users, Environments and Purposes.
@@ -48,9 +48,12 @@ A Scenario is defined by its **Definitive Risk-Relevant Characteristics (D-RRCs)
 
 These D-RRCs identify the sets of Data, Users, Environments and Purposes that share common risk behaviour. The complete combination of D-RRCs uniquely defines the Scenario. 
 
+Each dimension (DUE and P) in a Scenario may be defined by **one or more** specified Definitive RRCs. For example, a data product may be part of Scenario A due to two of its D-RRCs, and part of Scenario B due to another of its D-RRCs.
+
 *Constraint*
 
-A Scenario must always be defined by a complete DUE-P combination.
+A Scenario must always be defined by a complete DUE-P combination (though it is possible for the D-RRC value of one or more dimensions to be ‘any’).
+
 Risk assessments must not be attached directly to individual D-RRCs.
 
 ### Risk-Relevant Characteristics (RRCs)
@@ -113,19 +116,25 @@ The DSRF identifies three categories of risk:
 - Equity
 (ICE)
 
-A **Risk Factor** is a specific concern that contributes to one or more ICE risks. Examples include the presence of specific contractual restrictions, sensitive information, or sub-optimal data quality.
+In each category, an organization might encounter one or more examples of named risks. These **ICE risks** should be aligned across a community of organisations that seeks to use DSRF decision-making – not all organisations will encounter all risks, but there should be a shared understanding of what they are.
 
-Risk Factors belong to the Risk Profile of a Scenario. They are assessed as relevant or irrelevant and either tolerated or mitigated. 
+A **Risk Factor** is a specific concern that contributes to one or more ICE risks. Examples include the presence of specific contractual restrictions, sensitive information, or sub-optimal data quality. Identifying Risk Factors for ICE Risks in a Scenario helps to maintain traceability between mitigations and risks – recorded Risk Factors show why a risk was considered to be present.
+
+ICE Risks belong to the Risk Profile of a Scenario (not to the RRCs). They are assessed as relevant or irrelevant and either tolerated or mitigated. 
 
 *Critical Constraint*
 
-Risk Factors apply to Scenarios, not to individual RRCs.
+**Risk Factors** may be associated directly with one or more RRCs, in any of the four DUE-P dimensions. Or they may be a feature of the overall Scenario.
 
-This is one of the most important rules in the DSRF methodology. Risk emerges from the combination of Data, User, Environment and Purpose characteristics, not from any single characteristic considered alone.
+The presence of a Risk Factor does not mean the associated ICE Risk must apply to the Scenario.
+
+**ICE Risks** apply only to Scenarios, not to individual RRCs.
+
+These are among the most important rules in the DSRF methodology. Risk emerges from the combination of Data, User, Environment and Purpose characteristics, not from any single characteristic considered alone.
 
 ### Mitigations
 
-A **Mitigation** is a change to one of the DUE-P dimensions intended to affect a Risk Factor.
+A **Mitigation** is a change to one of the DUE-P dimensions intended to affect a Risk Factor and therefore alter an ICE Risk.
 
 Each Mitigation targets one of:
 - Data
@@ -133,11 +142,13 @@ Each Mitigation targets one of:
 - Environment
 - Purpose
 
-The same Mitigation may be used to manage multiple Risk Factors. Likewise, a Risk Factor may require multiple Mitigations. 
+The same Mitigation may be used to manage multiple ICE Risks. Likewise, an ICE Risk may require multiple Mitigations. 
 
 *Constraint*
 
-Mitigations must be linked to specific Risk Factors through the Risk Profile rather than attached directly to Scenarios or RRCs.
+Mitigations are mapped to ICE Risks in the Decision Pattern (not to Risk Factors), though they might be correlated to Risk Factors that have been identified and recorded. 
+
+Mitigations must be linked to specific ICE Risks through the Risk Profile to maintain traceability.
 
 ### Control Objectives
 
